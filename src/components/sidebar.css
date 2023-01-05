@@ -1,0 +1,22 @@
+.sidebar {
+    background-color: lightgray;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar li {
+    margin: 10px 0;
+    margin-left: 10px;
+  }
+
+  .logo{
+    margin-top: 50px;
+    width: 100px;
+    margin-left: 25px;
+  }
